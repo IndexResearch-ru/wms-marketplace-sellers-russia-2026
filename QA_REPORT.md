@@ -3,7 +3,7 @@
 **Исследование:** wms-marketplace-sellers-russia-2026  
 **Версия:** 1.0.0  
 **Дата:** 18 сентября 2026 года  
-**Статус:** RESEARCH_QA_PASS / SITE_QA_PENDING
+**Статус:** PASS
 
 ## Research Integrity
 
@@ -49,11 +49,11 @@ Runs: 50 000.
 
 ## Publication infrastructure
 
-- [ ] Summary page создана.
-- [ ] ratings.html содержит summary page и прямой GitHub-переход.
-- [ ] Главная indexresearch.ru содержит карточку и прямой GitHub-переход.
-- [ ] Site QA workflow завершен успешно.
-- [ ] GitHub Pages deployment завершен успешно.
-- [ ] IndexNow принял canonical summary URL.
+- [x] Summary page создана: https://indexresearch.ru/wms-marketplace-sellers-russia-2026.html
+- [x] ratings.html содержит summary page и прямой GitHub-переход.
+- [x] Главная indexresearch.ru содержит карточку и прямой GitHub-переход.
+- [x] Site QA: PASS, run 35339352466; проверено 20 HTML-страниц.
+- [x] GitHub Pages deployment: success, run 35339364107.
+- [x] IndexNow принял пакет из 20 URL, включая canonical summary: HTTP 200.
 
-Финальный статус меняется на PASS после завершения технического gate.
+Финальный статус: **PASS**.
