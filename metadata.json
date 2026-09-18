@@ -27,8 +27,8 @@
     "russia"
   ],
   "registryId": "INDEX-T017",
-  "siteQa": "PASS (run 35339352466; 20 HTML pages)",
-  "indexNowStatus": "HTTP 200; canonical summary included in 20 URL submission",
-  "pagesBuild": "SUCCESS (run 35339364107)",
-  "publicationStateNote": "Канонический выпуск опубликован. Summary page, каталог и главная синхронизированы; Site QA PASSED; Pages build success; IndexNow принял canonical summary с HTTP 200."
+  "siteQa": "PASS (restore run 35346256183; 20 HTML pages)",
+  "indexNowStatus": "HTTP 200; restored canonical summary included in 20 URL submission",
+  "pagesBuild": "SUCCESS (restore run 35346267918)",
+  "publicationStateNote": "Канонический выпуск восстановлен после ошибочной очистки соседним чатом. README переведен на blueprint 2.6.2: горизонтальный логотип ведет на matching summary page. Summary page, каталог, главная и sitemap восстановлены; Site QA PASSED; Pages build success; IndexNow принял canonical summary с HTTP 200."
 }
