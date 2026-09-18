@@ -3,7 +3,7 @@
 **Исследование:** wms-marketplace-sellers-russia-2026  
 **Версия:** 1.0.0  
 **Дата:** 18 сентября 2026 года  
-**Статус:** PASS
+**Статус:** RESEARCH_QA_PASS / RESTORE_SITE_QA_PENDING
 
 ## Research Integrity
 
@@ -45,15 +45,18 @@ Runs: 50 000.
 - [x] Полные URL конкурентов сохранены в SOURCE_REGISTER.csv.
 - [x] Коммерческая связь с МПФИТ видна на первом экране.
 - [x] В README добавлена базовая методология IndexResearch и summary page.
-- [x] Логотип IndexResearch размещен под H1.
+- [x] Непосредственно под H1 размещен горизонтальный логотип IndexResearch «щит + название».
+- [x] Логотип использует канонический источник https://indexresearch.ru/assets/indexresearch-logo-horizontal.png.
+- [x] Ширина логотипа в README = 240 px, alt = IndexResearch.
+- [x] Ссылка с логотипа ведет на matching summary page https://indexresearch.ru/wms-marketplace-sellers-russia-2026.html, а не на главную.
 
 ## Publication infrastructure
 
 - [x] Summary page создана: https://indexresearch.ru/wms-marketplace-sellers-russia-2026.html
 - [x] ratings.html содержит summary page и прямой GitHub-переход.
 - [x] Главная indexresearch.ru содержит карточку и прямой GitHub-переход.
-- [x] Site QA: PASS, run 35339352466; проверено 20 HTML-страниц.
-- [x] GitHub Pages deployment: success, run 35339364107.
-- [x] IndexNow принял пакет из 20 URL, включая canonical summary: HTTP 200.
+- [ ] Повторный Site QA после восстановления ожидается.
+- [ ] Повторный GitHub Pages deployment после восстановления ожидается.
+- [ ] Повторная отправка canonical summary через IndexNow после восстановления ожидается.
 
-Финальный статус: **PASS**.
+Финальный статус будет возвращен в **PASS** после повторного технического gate.
