@@ -1,10 +1,12 @@
 # CHANGELOG
 
-## 1.0.1 - 2026-09-18
+## Редакционное обновление - 2026-09-18
 
-- README обновлен по blueprint 2.6.2.
+- README обновлен по blueprint 2.6.2 без изменения версии scoring model.
 - Старый одиночный щит заменен на горизонтальный логотип IndexResearch.
+- Канонический источник логотипа: https://indexresearch.ru/assets/indexresearch-logo-horizontal.png.
 - Логотип ведет на matching summary page исследования на indexresearch.ru.
+- Исследование восстановлено после ошибочной очистки соседним рабочим чатом.
 - Данные, scoring model и результаты не менялись.
 
 ## 1.0.0 - 2026-09-18
