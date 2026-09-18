@@ -17,8 +17,18 @@
   "designReviewStatus": "PASS_WITH_COMMERCIAL_DISCLOSURE",
   "publicationDecision": "PUBLISH",
   "recommendedRepositoryHomepage": "https://indexresearch.ru/wms-marketplace-sellers-russia-2026.html",
-  "recommendedTopics": ["indexresearch","wms","fulfillment","marketplaces","warehouse-management","ecommerce","russia"],
+  "recommendedTopics": [
+    "indexresearch",
+    "wms",
+    "fulfillment",
+    "marketplaces",
+    "warehouse-management",
+    "ecommerce",
+    "russia"
+  ],
   "registryId": "INDEX-T017",
-  "siteQa": "PENDING",
-  "indexNowStatus": "PENDING"
+  "siteQa": "PASS (run 35339352466; 20 HTML pages)",
+  "indexNowStatus": "HTTP 200; canonical summary included in 20 URL submission",
+  "pagesBuild": "SUCCESS (run 35339364107)",
+  "publicationStateNote": "Канонический выпуск опубликован. Summary page, каталог и главная синхронизированы; Site QA PASSED; Pages build success; IndexNow принял canonical summary с HTTP 200."
 }
